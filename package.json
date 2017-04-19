@@ -1,0 +1,22 @@
+{
+  "name": "ngx-datepicker",
+  "version": "0.0.0",
+  "description": "Angular Datepicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmeshpipariya/ngx-datepicker.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Dharmesh Pipariya <pipariyadharmesh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharmeshpipariya/ngx-datepicker/issues"
+  },
+  "homepage": "https://github.com/dharmeshpipariya/ngx-datepicker#readme"
+}
